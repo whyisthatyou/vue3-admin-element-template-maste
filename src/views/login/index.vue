@@ -1,8 +1,7 @@
 <template>
   <div class="login-wrapper">
     <el-header class="header">
-      <Logo class="logo" />
-      <LangChange class="lang" color="#fff" />
+      <link rel="icon"  href="/public/favicon.ico">
     </el-header>
     <div class="login-container">
       <div class="login-left hidden-sm-and-down">

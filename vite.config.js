@@ -101,6 +101,8 @@ export default defineConfig({
     cors,
     strictPort,
     open,
+    hmr: true, //配置热更新
+    usePolling: true,
     fs: {
       strict: false,
     },
